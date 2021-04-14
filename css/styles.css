@@ -1,0 +1,108 @@
+p {
+    color: grey;
+}
+
+h2 {
+    color: white;
+}
+
+label {
+    text-align: center;
+}
+
+.dark-text {
+    color: #2b2d2f;
+}
+
+.light-text {
+    color: #FFFFFF;
+}
+
+.section-header {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.card-container {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.button-primary {
+    color: white;
+    border: none;
+    padding: 5px;
+    background-color: rgb(252, 127, 86);
+    border-radius: 2px;
+}
+
+.dark-background {
+    background-color: rgb(52, 58, 64);
+}
+
+.home__image {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home__text {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.card__text {
+    text-align: center;
+    font-size: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card__img {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card__img--big {
+    width: 100%;
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card__title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer__text {
+    color: white;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.footer__button {
+    padding: 5px;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.footer__input {
+    margin-top: 30px;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.footer__copyright {
+    text-align: center;
+    padding-bottom: 30px;
+    margin-top: 15px;
+    color: white;
+}
